@@ -1,4 +1,5 @@
 
+<html>
 <head>Code 201 Reading Notes</head>
 
 # Code 201 Reading Notes
@@ -18,7 +19,11 @@
 * [Read 09: Forms and Events](read01.html)
 * [Read 10: JS Debugging](read01.html)
 * [Read 11: Assorted Topics](read01.html)
-* [Read 12: Docs for the HTML <canvas> Element & Chart.js](read01.html)
+* [Read 12: Docs for the HTML \<canvas> Element & Chart.js](read01.html)
 * [Read 13: Local Storage](read01.html)
 * [Read 14a: CSS Transforms, Transitions, and Animations](read01.html)
 * [Read 14b: What Google Learned about Teams](read01.html)
+
+
+
+</html>
