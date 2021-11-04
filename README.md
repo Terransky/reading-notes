@@ -1,15 +1,28 @@
-# Code 301 - Intermediate Software Development
+#CodeFellows Reading Notes
+
+## Code 301 - Intermediate Software Development
+
+### I will be cataloguing my reading assignments for Code 301 here.
+
+#### Table of Contents for Reading
+
+* [Read 01: Introduction to React and Components](class-301-01.md)
+* [Read 02: State and Props](class-301-02.md)
+* [Read 03: ](class-301-03.md)
+* [Read 04: ](class-301-04.md)
+* [Read 05: ](class-301-05.md)
+* [Read 06: ](class-301-06.md)
+* [Read 07: ](class-301-07.md)
+ 
 
 
 
 
+## Code 201 Reading Notes
 
+## #I will be cataloguing my reading assignments for Code 201 here.
 
-# Code 201 Reading Notes
-
-## I will be cataloguing my reading assignments for Code 201 on this web page.
-
-### Table of Contents for Reading
+#### Table of Contents for Reading
 
 * [Read 01: Introductory HTML and JavaScript](class-01.md)
 * [Read 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
