@@ -1,4 +1,6 @@
-#CodeFellows Reading Notes
+# CodeFellows Reading Notes
+
+***
 
 ## Code 301 - Intermediate Software Development
 
@@ -13,14 +15,12 @@
 * [Read 05: ](class-301-05.md)
 * [Read 06: ](class-301-06.md)
 * [Read 07: ](class-301-07.md)
- 
-
-
-
+  
+***
 
 ## Code 201 - Reading Notes Foundations of Software Development
 
-## #I will be cataloguing my reading assignments for Code 201 here.
+### I will be cataloguing my reading assignments for Code 201 here.
 
 #### Table of Contents for Reading
 
