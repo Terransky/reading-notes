@@ -1,5 +1,5 @@
 # The Command Line
-I know the assignment said no one liners but this section is literally about how to open the terminal. Not exactly riveting stuff. You can type echo $SHELL
+You can type echo $SHELL
 to see your current shell. You can use the up and down arrow keys to traverse your command history.
 
 # Basic Navigation
