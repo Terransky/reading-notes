@@ -18,9 +18,16 @@ a . full stop in front of a file or directory will hide it. It can be found agai
 
 # Manual Pages
 commands can be looked up internally with man\[command name\]
-
+if you don't know the command, you can search for keywords through man -k <\search term\>
 
 # File Manipulation
-
+mkdir name to create a new directory or folder
+rmdir to delete a directory. -r option to recursively delete non empty directories and everything in it.
+rm to delete a file.
+Deletion cannot be undone.
+touch name to create a blank file. It can also modify the access and modification times
+cp source destination to copy a file
+mv source destination to move a file and rename it. Move it to the same directory to overwrite the original file
 
 # Cheat Sheet
+Bookmarked for later reference, no doubt will be useful
