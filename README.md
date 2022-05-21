@@ -8,6 +8,8 @@
 
 #### Table of Contents for Reading
 
+* [Practice in the Terminal](terminal.md)
+
 ***
 
 ## Code 301 - Intermediate Software Development
